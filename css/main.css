@@ -179,6 +179,19 @@
     height: auto;
 }
 
+.benefits
+{
+	font-size: 12px;
+	color: rgb(85, 85, 85);
+
+	display: flex;
+
+	width: 45%;
+
+	justify-content: space-between;
+	align-items: center;
+}
+
 .footer {
     display: flex;
     flex-direction: column;
